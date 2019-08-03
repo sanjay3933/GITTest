@@ -56,6 +56,12 @@
     </dependencies>
 
     <repositories>
+     <repository>
+     <id>github</id>
+     <name>sanjay3933</name>
+     <url>https://github.com/sanjay3933/GITTest</url>
+      </repository>
+   
         <repository>
             <id>myMavenRepo.read</id>
             <url>https://github.com/sanjay3933/GITTest</url>
