@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>${myMavenRepo.read.url}</url>
+            <url>https://github.com/sanjay3933/GITTest</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>${myMavenRepo.writ.url}</url>
+            <url>https://github.com/sanjay3933/GITTest</url>
         </repository>
     </distributionManagement>
 
