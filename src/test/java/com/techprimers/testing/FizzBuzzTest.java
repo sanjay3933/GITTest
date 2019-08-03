@@ -1,6 +1,8 @@
-package com.techprimers.testing;
+package test.java.com.techprimers.testing;
 
 import org.junit.jupiter.api.*;
+
+import main.java.com.techprimers.testing.FizzBuzz;
 
 class FizzBuzzTest {
 
