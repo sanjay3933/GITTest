@@ -82,17 +82,17 @@
      <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
       </repository>
    
-        <repository>
+       <!--  <repository>
             <id>myMavenRepo.read</id>
             <url>https://github.com/sanjay3933/GITTest</url>
-        </repository>
+        </repository> -->
     </repositories>
 
     <distributionManagement>
-        <repository>
+       <!--  <repository>
             <id>myMavenRepo.write</id>
             <url>https://github.com/sanjay3933/GITTest</url>
-        </repository>
+        </repository> -->
     </distributionManagement>
 
 </project>
