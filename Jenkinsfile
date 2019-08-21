@@ -22,12 +22,12 @@ pipeline {
         }
 
 
-        stage ('Deployment Stage Test') {
-            steps {
-                withMaven(maven : 'MAVEN_HOME') {
+        //stage ('Deployment Stage Test') {
+          //  steps {
+           //     withMaven(maven : 'MAVEN_HOME') {
                     bat 'mvn deploy'
-                }
-            }
-        }
+               // }
+           // }
+       // }
     }
 }
