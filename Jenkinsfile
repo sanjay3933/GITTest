@@ -25,7 +25,7 @@ pipeline {
         //stage ('Deployment Stage Test') {
           //  steps {
            //     withMaven(maven : 'MAVEN_HOME') {
-                    bat 'mvn deploy'
+                  //  bat 'mvn deploy'
                // }
            // }
        // }
